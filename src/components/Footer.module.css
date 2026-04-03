@@ -1,0 +1,14 @@
+.footer {
+  text-align: center;
+  padding: 40px 60px;
+  color: var(--text3);
+  font-size: 13px;
+  border-top: 1px solid var(--border);
+  font-family: var(--mono);
+  position: relative;
+  z-index: 1;
+}
+
+.dim {
+  opacity: 0.4;
+}
